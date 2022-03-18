@@ -1,0 +1,27 @@
+body{
+    background-color: beige;
+}
+
+.p1{
+    text-align: center;
+}
+
+
+input{
+    display: grid;
+    padding: 10px;
+    border: 1pt solid rgb(204, 202, 202);
+    width: 350px;
+    border-radius: 6px;
+    font-size: 13px;
+}
+.btn-group{
+    text-align: center;rgb(207, 202, 202)
+    width: 290px;
+}
+button{
+    background-color: white;
+    padding: 17px;
+    border-radius: 9px;
+    border: 1px solid rgb(207, 202, 202);
+}
